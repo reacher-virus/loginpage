@@ -38,7 +38,7 @@ Edit
 To run this project locally:
 
 Clone the repository:
-git clone https://github.com/yourusername/glassmorphism-login-form.git
+git clone https://github.com/reacher-virus/glassmorphism-login-form.git
 
 Navigate to the project folder:
 cd glassmorphism-login-form
